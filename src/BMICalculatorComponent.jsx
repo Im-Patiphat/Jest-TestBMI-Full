@@ -22,6 +22,7 @@ function BMICalculatorComponent() {
   return (
     <div>
       <h1>BMI Calculator</h1>
+      <h2>017 Patiphat</h2>
       <div>
         <label>Weight (kg):</label>
         <input
